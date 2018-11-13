@@ -2,12 +2,12 @@
 
 h1, h2, h3, h4, a, .navbar-brand {
   /* font-family: 'Jeju Gothic'; */
-  font-family: 'Gothic A1';
+  font-family: 'Gothic A1', sans-serif;
   color: #1B5E20;
   /* font-family: 'Do Hyeon', sans-serif; */
 }
 body {
-  font-family: 'Nanum Gothic';
+  font-family: 'Nanum Gothic', sans-serif;
   background-color: #C8E6C9;
 }
 .navbar {
