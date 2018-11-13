@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
-@import url('https:////fonts.googleapis.com/earlyaccess/jejugothic.css');
+@import url('https://fonts.googleapis.com/css?family=Gothic+A1:700|Nanum+Gothic');
 
 h1, h2, h3, h4, a, .navbar-brand {
-  font-family: 'Jeju Gothic';
+  /* font-family: 'Jeju Gothic'; */
+  font-family: 'Gothic A1';
   color: #1B5E20;
+  /* font-family: 'Do Hyeon', sans-serif; */
 }
 body {
   font-family: 'Nanum Gothic';
